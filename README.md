@@ -5,7 +5,7 @@
 - Private Routes
 - Auth Context
 - User Login
-- Persisting logged in user
+- Persisting logged-in user
 - User Logout
 - Registration
 - Authentication done using Appwrite
@@ -17,6 +17,5 @@
 ## Getting started
 
 1. Clone repo
-2. `cd 1-starter-template`
-3. run `npm install`
-4. Create account and project on appwrite.io and follow [guide](video-notes.md#appwrite-console-setup--config).
+2. run `npm install`
+3. Create an account and project on appwrite.io, refer the documentation
